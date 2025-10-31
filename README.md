@@ -26,6 +26,7 @@ Mathematics-Computer Science - University of California, San Diego (UCSD)
 ![Static Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white) <!--C w/ color: 00599C -->
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white) <!--C++ w/ color: 00599C -->
 ![Static Badge](https://img.shields.io/badge/JAVA-5283A2?style=for-the-badge&logoColor=white) <!--Java w/ color: 5283A2 -->
+![Static Badge](https://img.shields.io/badge/JAVASCRIPT-F0DC4E?style=for-the-badge&logo=javascript&logoColor=black) <!--Javascript w/ color F0DC4E-->
 ![Static Badge](https://img.shields.io/badge/MATLAB-E3650F?style=for-the-badge&logo=Matlab&logoColor=white) <!--MATLAB w/ color: E3650F -->
 ![Static Badge](https://img.shields.io/badge/PYTHON-3673A2?style=for-the-badge&logo=PYTHON&logoColor=FDD545) <!--Python w/ yellow color: FDD545 and blue color: 3673A2 -->
 ![Static Badge](https://img.shields.io/badge/TYPESCRIPT-2E79C7?style=for-the-badge&logo=Typescript&logoColor=white) <!--Typescript w/ color: 2E79C7 -->
@@ -38,8 +39,8 @@ Mathematics-Computer Science - University of California, San Diego (UCSD)
 ### Machine Learning
 
 ### Hardware
-![Static Badge](https://img.shields.io/badge/RASPBERRY%20PI-BD0940?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white) <!--Raspberry Pi w/ color: BD0940 -->
 ![Static Badge](https://img.shields.io/badge/ARDUINO-00989E?style=for-the-badge&logo=arduino&logoColor=white) <!--Arduino w/ color: 00989E -->
+![Static Badge](https://img.shields.io/badge/RASPBERRY%20PI-BD0940?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white) <!--Raspberry Pi w/ color: BD0940 -->
 ![Static Badge](https://img.shields.io/badge/SG90%20SERVO%20MOTOR-2542AF?style=for-the-badge&logo=servo&logoColor=white) <!--SG90 Servo Motor w/ color: 2542AF -->
 
 ### Operating Systems
