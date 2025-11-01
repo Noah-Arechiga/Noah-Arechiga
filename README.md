@@ -37,6 +37,10 @@ Mathematics-Computer Science - University of California, San Diego (UCSD)
 ![Static Badge](https://img.shields.io/badge/HTML-E54C21?style=for-the-badge&logo=html5&logoColor=white) <!--HTML w/ color: E54C21 -->
 
 ### Machine Learning
+![Static Badge](https://img.shields.io/badge/NUMPY-4D77CF?style=for-the-badge&logo=numpy&logoColor=white) <!--NumPy w/ color: 4D77CF -->
+![Static Badge](https://img.shields.io/badge/PANDAS-0B0253?style=for-the-badge&logo=pandas&logoColor=white) <!--Pandas w/ color: 0B0253 -->
+![Static Badge](https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) <!--Scikit-Learn w/ color: F7931E -->
+![Static Badge](https://img.shields.io/badge/MATPLOTLIB-D7FF60?style=for-the-badge&logo=Matplotlib&logoColor=white) <!--Matplotlib w/ color: D7FF60 -->
 
 ### Hardware
 ![Static Badge](https://img.shields.io/badge/ARDUINO-00989E?style=for-the-badge&logo=arduino&logoColor=white) <!--Arduino w/ color: 00989E -->
@@ -48,3 +52,9 @@ Mathematics-Computer Science - University of California, San Diego (UCSD)
 ![Static Badge](https://img.shields.io/badge/WINDOWS-0278D6?style=for-the-badge) <!-- Windows w/ color: 0278D6 -->
 
 ### Other
+![Static Badge](https://img.shields.io/badge/GIT-F34F29?style=for-the-badge&logo=git&logoColor=white) <!--Git w/ color: F34F29 -->
+![Static Badge](https://img.shields.io/badge/CI%2FCD-purple?style=for-the-badge&logo=bash&logoColor=white) <!--CI/CD w/ color: purple -->
+![Static Badge](https://img.shields.io/badge/UNITY-808080?style=for-the-badge&logo=unity&logoColor=white) <!--Unity w/ color: 808080-->
+![Static Badge](https://img.shields.io/badge/SCRUM%2FAGILE-green?style=for-the-badge&logo=scrum&logoColor=white) <!--Scrum/Agile w/ color: green -->
+
+
