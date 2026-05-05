@@ -30,13 +30,14 @@ Here are some ideas to get you started:
 ![Static Badge](https://img.shields.io/badge/JAVA-5283A2?style=for-the-badge&logoColor=white) <!--Java w/ color: 5283A2 -->
 ![Static Badge](https://img.shields.io/badge/JAVASCRIPT-F0DC4E?style=for-the-badge&logo=javascript&logoColor=black) <!--Javascript w/ color F0DC4E-->
 ![Static Badge](https://img.shields.io/badge/MATLAB-E3650F?style=for-the-badge&logo=Matlab&logoColor=white) <!--MATLAB w/ color: E3650F -->
-![Static Badge](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) <!--LaTex w/ color:  -->
+![Static Badge](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) <!--LaTex w/ color: cyan -->
 
 
 ### Web Development
 ![Static Badge](https://img.shields.io/badge/REACT-61DBFB?style=for-the-badge&logo=react&logoColor=black) <!--React w/ color: 61DBFB -->
 ![Static Badge](https://img.shields.io/badge/CSS-274DEF?style=for-the-badge&logo=CSS&logoColor=white) <!--CSS w/ color: 274DEF -->
 ![Static Badge](https://img.shields.io/badge/HTML-E54C21?style=for-the-badge&logo=html5&logoColor=white) <!--HTML w/ color: E54C21 -->
+![Static Badge](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) <!--VITE w/ color: purple  -->
 
 ### Machine Learning
 ![Static Badge](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) <!--PyTorch w/ color: EE4C2C -->
@@ -50,11 +51,9 @@ Here are some ideas to get you started:
 ![Static Badge](https://img.shields.io/badge/RASPBERRY%20PI-BD0940?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white) <!--Raspberry Pi w/ color: BD0940 -->
 ![Static Badge](https://img.shields.io/badge/SG90%20SERVO%20MOTOR-2542AF?style=for-the-badge&logo=servo&logoColor=white) <!--SG90 Servo Motor w/ color: 2542AF -->
 
-### Operating Systems
+### Tools
 ![Static Badge](https://img.shields.io/badge/LINUX-FED526?style=for-the-badge&logo=Linux&logoColor=black) <!--Linux w/ color: FED526 -->
 ![Static Badge](https://img.shields.io/badge/WINDOWS-0278D6?style=for-the-badge) <!-- Windows w/ color: 0278D6 -->
-
-### Other
 ![Static Badge](https://img.shields.io/badge/GIT-F34F29?style=for-the-badge&logo=git&logoColor=white) <!--Git w/ color: F34F29 -->
 ![Static Badge](https://img.shields.io/badge/CI%2FCD-purple?style=for-the-badge&logo=bash&logoColor=white) <!--CI/CD w/ color: purple -->
 ![Static Badge](https://img.shields.io/badge/UNITY-808080?style=for-the-badge&logo=unity&logoColor=white) <!--Unity w/ color: 808080-->
