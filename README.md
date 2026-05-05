@@ -1,4 +1,4 @@
-# Hi there, I'm Noah! 👋
+# Noah Arechiga
 
 <!--
 **Noah-Arechiga/Noah-Arechiga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 ## 📚 Education
-**Mathematics-Computer Science B.S.** - University of California, San Diego (UCSD)
-<br>_September 2023 - June 2026_
-* GPA: 3.64/4.00
-* Relevant Coursework: Advanced Data Structures (C++), Software Engineering (Typescript, React JS, HTML), Design & Analysis of Algorithms, Machine Learning: Learning Algorithms (Python, Scikit-learn, NumPy, Pandas, Matplotlib), Systems Programming & Software Tools (C, Linux, Shell Scripts), Object-Oriented Design (Java)
+**Mathematics-Computer Science B.S.** - University of California, San Diego (UCSD) \
+*Sept. 2023 - Jun. 2026*
+- GPA: 3.64/4.00
+- Relevant Coursework: Advanced Data Structures (C++), Software Engineering (Typescript, React JS, HTML), Design & Analysis of Algorithms, Machine Learning: Learning Algorithms (Python, Scikit-learn, NumPy, Pandas, Matplotlib), Systems Programming & Software Tools (C, Linux, Shell Scripts), Object-Oriented Design (Java)
 
 ## 🛠 Skills
 ### Programming Languages
@@ -31,7 +31,6 @@ Here are some ideas to get you started:
 ![Static Badge](https://img.shields.io/badge/JAVASCRIPT-F0DC4E?style=for-the-badge&logo=javascript&logoColor=black) <!--Javascript w/ color F0DC4E-->
 ![Static Badge](https://img.shields.io/badge/MATLAB-E3650F?style=for-the-badge&logo=Matlab&logoColor=white) <!--MATLAB w/ color: E3650F -->
 ![Static Badge](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) <!--LaTex w/ color: cyan -->
-
 
 ### Web Development
 ![Static Badge](https://img.shields.io/badge/REACT-61DBFB?style=for-the-badge&logo=react&logoColor=black) <!--React w/ color: 61DBFB -->
@@ -58,5 +57,50 @@ Here are some ideas to get you started:
 ![Static Badge](https://img.shields.io/badge/CI%2FCD-purple?style=for-the-badge&logo=bash&logoColor=white) <!--CI/CD w/ color: purple -->
 ![Static Badge](https://img.shields.io/badge/UNITY-808080?style=for-the-badge&logo=unity&logoColor=white) <!--Unity w/ color: 808080-->
 ![Static Badge](https://img.shields.io/badge/SCRUM%2FAGILE-green?style=for-the-badge&logo=scrum&logoColor=white) <!--Scrum/Agile w/ color: green -->
+
+## Experience
+
+**Resident Assistant, UC San Diego - Housing, Dining & Hospitality** \
+*Aug. 2025 - Jun. 2026*
+- Supported a residential community of 50+ students through student mentorship, crisis response, and university policy enforcement while maintaining FERPA compliance.
+- Collaborated with a team of 5+ Resident Assistants to plan, budget, and execute educational and community-based events for over 100+ residents.
+- Achieved a 100% response and follow-up rate on resident incidents involving conflict, noise, and lockouts on-duty shifts.
+- Operated student housing management platforms (Persona, Mercury) to process 150+ resident check-ins daily during move-in operations.
+
+**Software Engineering Lead, Themed Entertainment Association @ UCSD** \
+*Feb. 2025 - Jun. 2026*
+- Supervised and mentored a cross-functional software engineering team of 5 to develop themed entertainment applications and interactive systems.
+- Utilized Visual Studio Code, Git, and version control best practices to enable collaborative development, reducing code integration errors by 15%.
+- Presented live project demos to 200+ students and faculty, creating greater club visibility and increasing club membership by 223%.
+
+**Summer Intern, O'Melveny & Myers LLP** \
+*Jun. 2022 - Aug. 2022*
+- Supported the IT Department by configuring and deploying software on 30+ attorney devices, ensuring compliance with firm-wide security standards.
+- Set up professional workstations (monitors, keyboards, docking stations) to improve attorney workflow efficiency.
+- Coordinated 15+ virtual meetings between attorneys and high profile clientele via Microsoft Teams and Zoom.
+- Managed sensitive expense data in Microsoft Excel with 100% accuracy.
+- Proofread confidential legal documents and internal correspondence with discretion and attention to detail.
+
+## Project Roles
+
+**Manner’s Murder: Educational Algebra Game** \
+*Sept. 2025 - Dec. 2025*
+- Led frontend development using TypeScript, Vite, and Konva.js, building an interactive 2D educational game for high school students, delivering 4+ fully functional game screens.
+- Designed and implemented a scalable Model-View-Controller (MVC) architecture, improving code organization and maintainability across Login, Menu, Game, and Notebook systems.
+- Integrated frontend with backend services using REST APIs, supporting authentication and real-time game state synchronization.
+- Collaborated in an Agile/Scrum team of 6 developers, participating in sprint planning and code reviews.
+
+**Interactive Robotic Bird in C/C++** \
+*Feb. 2025 - Jun. 2025*
+- Directed software development for a robotic control system using C/C++ and Arduino IDE to synchronize servo-based head and wing motion with real-time audio feedback.
+- Integrated motion logic with custom-fabricated mechanical components, achieving 90% synchronization accuracy between movement and sound.
+- Partnered with 3+ hardware engineers to ensure the safety and reliability of the Raspberry Pi 5 hardware system.
+
+**Dance Klub: A Unity-Based Video Game** \
+*Oct. 2024 - Nov. 2024*
+- Led a 5-member programming team to design, code, and deploy a 2D Unity-based game for the TritonWare event for the Video Game Development Club, managing project timelines and ensuring deliverables met quality standards.
+- Developed core gameplay mechanics in C# using Unity, including a timer-based scoring system and randomized sprite generator, increasing replayability and player engagement by 30% during testing.
+- Implemented a UI/UX interface with animated menus to enhance player navigation and experience.
+
 
 
