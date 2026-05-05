@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 📚 Education
 **Mathematics-Computer Science B.S.** - University of California, San Diego (UCSD)
 <br>_September 2023 - June 2026_
-* GPA: 3.68/4.00
+* GPA: 3.64/4.00
 * Relevant Coursework: Advanced Data Structures (C++), Software Engineering (Typescript, React JS, HTML), Design & Analysis of Algorithms, Machine Learning: Learning Algorithms (Python, Scikit-learn, NumPy, Pandas, Matplotlib), Systems Programming & Software Tools (C, Linux, Shell Scripts), Object-Oriented Design (Java)
 
 ## 🛠 Skills
@@ -37,10 +37,13 @@ Here are some ideas to get you started:
 ![Static Badge](https://img.shields.io/badge/HTML-E54C21?style=for-the-badge&logo=html5&logoColor=white) <!--HTML w/ color: E54C21 -->
 
 ### Machine Learning
+![Static Badge](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) <!--NumPy w/ color: 4D77CF -->
 ![Static Badge](https://img.shields.io/badge/NUMPY-4D77CF?style=for-the-badge&logo=numpy&logoColor=white) <!--NumPy w/ color: 4D77CF -->
 ![Static Badge](https://img.shields.io/badge/PANDAS-0B0253?style=for-the-badge&logo=pandas&logoColor=white) <!--Pandas w/ color: 0B0253 -->
 ![Static Badge](https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) <!--Scikit-Learn w/ color: F7931E -->
 ![Static Badge](https://img.shields.io/badge/MATPLOTLIB-D7FF60?style=for-the-badge&logo=Matplotlib&logoColor=white) <!--Matplotlib w/ color: D7FF60 -->
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ### Hardware
 ![Static Badge](https://img.shields.io/badge/ARDUINO-00989E?style=for-the-badge&logo=arduino&logoColor=white) <!--Arduino w/ color: 00989E -->
