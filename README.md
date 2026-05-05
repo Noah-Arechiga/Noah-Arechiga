@@ -25,11 +25,13 @@ Here are some ideas to get you started:
 ### Programming Languages
 ![Static Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white) <!--C w/ color: 00599C -->
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white) <!--C++ w/ color: 00599C -->
+![Static Badge](https://img.shields.io/badge/PYTHON-3673A2?style=for-the-badge&logo=PYTHON&logoColor=FDD545) <!--Python w/ yellow color: FDD545 and blue color: 3673A2 -->
+![Static Badge](https://img.shields.io/badge/TYPESCRIPT-2E79C7?style=for-the-badge&logo=Typescript&logoColor=white) <!--Typescript w/ color: 2E79C7 -->
 ![Static Badge](https://img.shields.io/badge/JAVA-5283A2?style=for-the-badge&logoColor=white) <!--Java w/ color: 5283A2 -->
 ![Static Badge](https://img.shields.io/badge/JAVASCRIPT-F0DC4E?style=for-the-badge&logo=javascript&logoColor=black) <!--Javascript w/ color F0DC4E-->
 ![Static Badge](https://img.shields.io/badge/MATLAB-E3650F?style=for-the-badge&logo=Matlab&logoColor=white) <!--MATLAB w/ color: E3650F -->
-![Static Badge](https://img.shields.io/badge/PYTHON-3673A2?style=for-the-badge&logo=PYTHON&logoColor=FDD545) <!--Python w/ yellow color: FDD545 and blue color: 3673A2 -->
-![Static Badge](https://img.shields.io/badge/TYPESCRIPT-2E79C7?style=for-the-badge&logo=Typescript&logoColor=white) <!--Typescript w/ color: 2E79C7 -->
+![Static Badge](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) <!--LaTex w/ color:  -->
+
 
 ### Web Development
 ![Static Badge](https://img.shields.io/badge/REACT-61DBFB?style=for-the-badge&logo=react&logoColor=black) <!--React w/ color: 61DBFB -->
@@ -37,13 +39,11 @@ Here are some ideas to get you started:
 ![Static Badge](https://img.shields.io/badge/HTML-E54C21?style=for-the-badge&logo=html5&logoColor=white) <!--HTML w/ color: E54C21 -->
 
 ### Machine Learning
-![Static Badge](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) <!--NumPy w/ color: 4D77CF -->
+![Static Badge](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) <!--PyTorch w/ color: EE4C2C -->
 ![Static Badge](https://img.shields.io/badge/NUMPY-4D77CF?style=for-the-badge&logo=numpy&logoColor=white) <!--NumPy w/ color: 4D77CF -->
 ![Static Badge](https://img.shields.io/badge/PANDAS-0B0253?style=for-the-badge&logo=pandas&logoColor=white) <!--Pandas w/ color: 0B0253 -->
 ![Static Badge](https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) <!--Scikit-Learn w/ color: F7931E -->
 ![Static Badge](https://img.shields.io/badge/MATPLOTLIB-D7FF60?style=for-the-badge&logo=Matplotlib&logoColor=white) <!--Matplotlib w/ color: D7FF60 -->
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ### Hardware
 ![Static Badge](https://img.shields.io/badge/ARDUINO-00989E?style=for-the-badge&logo=arduino&logoColor=white) <!--Arduino w/ color: 00989E -->
