@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 📚 Education
 **Mathematics-Computer Science B.S.** - University of California, San Diego (UCSD) \
 *Sept. 2023 - Jun. 2026*
-- GPA: 3.64/4.00
+- GPA: 3.65/4.00
 - Relevant Coursework: Advanced Data Structures (C++), Software Engineering (Typescript, React JS, HTML), Design & Analysis of Algorithms, Machine Learning: Learning Algorithms (Python, Scikit-learn, NumPy, Pandas, Matplotlib), Systems Programming & Software Tools (C, Linux, Shell Scripts), Object-Oriented Design (Java)
 
 ## 🛠 Skills
