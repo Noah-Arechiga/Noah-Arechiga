@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 ## 📚 Education
-**Mathematics-Computer Science B.S.** - University of California, San Diego (UCSD) \
+**Mathematics-Computer Science B.S.** - University of California, San Diego (UC San Diego) \
 *Sept. 2023 - Jun. 2026*
 - GPA: 3.65/4.00
-- Relevant Coursework: Advanced Data Structures (C++), Software Engineering (Typescript, React JS, HTML), Design & Analysis of Algorithms, Machine Learning: Learning Algorithms (Python, Scikit-learn, NumPy, Pandas, Matplotlib), Systems Programming & Software Tools (C, Linux, Shell Scripts), Object-Oriented Design (Java)
+- Relevant Coursework: Software Engineering, Advanced Data Structures, Design & Analysis of Algorithms, Systems Programming & Software Tools, Intro to AI: Probabilistic Reasoning & Decision-Making, Machine Learning: Learning Algorithms, Machine Learning for Music, Object-Oriented Design, Theory of Computation
 
 ## 🛠 Skills
 ### Programming Languages
@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ![Static Badge](https://img.shields.io/badge/UNITY-808080?style=for-the-badge&logo=unity&logoColor=white) <!--Unity w/ color: 808080-->
 ![Static Badge](https://img.shields.io/badge/SCRUM%2FAGILE-green?style=for-the-badge&logo=scrum&logoColor=white) <!--Scrum/Agile w/ color: green -->
 
-## Experience
+## 💡 Experience
 
 **Resident Assistant, UC San Diego - Housing, Dining & Hospitality** \
 *Aug. 2025 - Jun. 2026*
