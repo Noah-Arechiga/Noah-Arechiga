@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 - Managed sensitive expense data in Microsoft Excel with 100% accuracy.
 - Proofread confidential legal documents and internal correspondence with discretion and attention to detail.
 
-## Project Roles
+## 💻 Project Roles
 
 **Manner’s Murder: Educational Algebra Game** \
 *Sept. 2025 - Dec. 2025*
