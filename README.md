@@ -58,6 +58,9 @@ Here are some ideas to get you started:
 ![Static Badge](https://img.shields.io/badge/LINUX-FED526?style=for-the-badge&logo=Linux&logoColor=black) <!--Linux w/ color: FED526 -->
 ![Static Badge](https://img.shields.io/badge/WINDOWS-0278D6?style=for-the-badge) <!-- Windows w/ color: 0278D6 -->
 ![Static Badge](https://img.shields.io/badge/GIT-F34F29?style=for-the-badge&logo=git&logoColor=white) <!--Git w/ color: F34F29 -->
+![Static Badge](https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) <!--VS Code w/ color: 007ACC -->
+![Static Badge](https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white) <!--Jupyter w/ color: F37626 -->
+![Static Badge](https://img.shields.io/badge/GOOGLE%20COLAB-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white) <!--Colab w/ color: F9AB00 -->
 ![Static Badge](https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white) <!--Vercel w/ color: black -->
 ![Static Badge](https://img.shields.io/badge/CI%2FCD-purple?style=for-the-badge&logo=bash&logoColor=white) <!--CI/CD w/ color: purple -->
 ![Static Badge](https://img.shields.io/badge/UNITY-808080?style=for-the-badge&logo=unity&logoColor=white) <!--Unity w/ color: 808080-->
