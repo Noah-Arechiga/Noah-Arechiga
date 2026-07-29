@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## 📚 Education
-**Mathematics-Computer Science B.S.** - University of California, San Diego (UC San Diego) \
+**B.S. Mathematics-Computer Science** - University of California, San Diego \
 *Sept. 2023 - Jun. 2026*
 - GPA: 3.65/4.00
 - Relevant Coursework: Software Engineering, Advanced Data Structures, Design & Analysis of Algorithms, Systems Programming, Software Tools, AI: Probabilistic Reasoning & Decision-Making, Machine Learning Algorithms, Machine Learning for Music, Object-Oriented Design, Theory of Computation, Numerical Methods for PDEs
@@ -70,20 +70,25 @@ Here are some ideas to get you started:
 
 ## 💡 Experience
 
-**Resident Assistant, UC San Diego - Housing, Dining & Hospitality** \
+**Resident Assistant** \
+UC San Diego - Housing, Dining & Hospitality \
 *Aug. 2025 - Jun. 2026*
 - Supported a residential community of 50+ students through student mentorship, crisis response, and university policy enforcement while maintaining FERPA compliance.
 - Collaborated with a team of 5+ Resident Assistants to plan, budget, and execute educational and community-based events for over 100+ residents.
 - Achieved a 100% response and follow-up rate on resident incidents involving conflict, noise, and lockouts on-duty shifts.
 - Operated student housing management platforms (Persona, Mercury) to process 150+ resident check-ins daily during move-in operations.
 
-**Software Engineering Lead, Themed Entertainment Association @ UCSD** \
+**Software Engineering Lead** \
+Themed Entertainment Association @ UCSD \
 *Feb. 2025 - Jun. 2026*
-- Supervised and mentored a cross-functional software engineering team of 5 to develop themed entertainment applications and interactive systems.
-- Utilized Visual Studio Code, Git, and version control best practices to enable collaborative development, reducing code integration errors by 15%.
-- Presented live project demos to 200+ students and faculty, creating greater club visibility and increasing club membership by 223%.
+- Led a cross-functional software engineering team of 5 developers to build themed entertainment applications and interactive experiences from concept to deployment.
+- Coordinated project planning for 2+ projects, delegated development tasks, and mentored team members to ensure milestone completion and consistent code quality.
+- Designed and implemented embedded system features using (C/C++, Python, etc.) for hardware devices such as Arduinos and Raspberry Pi 5 to implement audio animatronics.
+- Utilized Git, GitHub, and Visual Studio Code to establish collaborative development workflows, reducing code integration errors by 15%.</li>
+- Presented live demonstrations of completed projects to 200+ students and faculty, increasing club visibility and contributing to a 223% growth in membership.</li>
 
-**Summer Intern, O'Melveny & Myers LLP** \
+**Summer Intern** \
+O'Melveny & Myers LLP \
 *Jun. 2022 - Aug. 2022*
 - Supported the IT Department by configuring and deploying software on 30+ attorney devices, ensuring compliance with firm-wide security standards.
 - Set up professional workstations (monitors, keyboards, docking stations) to improve attorney workflow efficiency.
