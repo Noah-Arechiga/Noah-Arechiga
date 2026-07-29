@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 **Mathematics-Computer Science B.S.** - University of California, San Diego (UC San Diego) \
 *Sept. 2023 - Jun. 2026*
 - GPA: 3.65/4.00
-- Relevant Coursework: Software Engineering, Advanced Data Structures, Design & Analysis of Algorithms, Systems Programming & Software Tools, Intro to AI: Probabilistic Reasoning & Decision-Making, Machine Learning: Learning Algorithms, Machine Learning for Music, Object-Oriented Design, Theory of Computation
+- Relevant Coursework: Software Engineering, Advanced Data Structures, Design & Analysis of Algorithms, Systems Programming, Software Tools, AI: Probabilistic Reasoning & Decision-Making, Machine Learning Algorithms, Machine Learning for Music, Object-Oriented Design, Theory of Computation, Numerical Methods for PDEs
 
 ## 🛠 Skills
 ### Programming Languages
