@@ -34,29 +34,34 @@ Here are some ideas to get you started:
 
 ### Web Development
 ![Static Badge](https://img.shields.io/badge/REACT-61DBFB?style=for-the-badge&logo=react&logoColor=black) <!--React w/ color: 61DBFB -->
-![Static Badge](https://img.shields.io/badge/CSS-274DEF?style=for-the-badge&logo=CSS&logoColor=white) <!--CSS w/ color: 274DEF -->
+![Static Badge](https://img.shields.io/badge/KONVA-0D83CD?style=for-the-badge&logo=konva&logoColor=white) <!--Konva w/ color: 0D83CD -->
 ![Static Badge](https://img.shields.io/badge/HTML-E54C21?style=for-the-badge&logo=html5&logoColor=white) <!--HTML w/ color: E54C21 -->
+![Static Badge](https://img.shields.io/badge/CSS-274DEF?style=for-the-badge&logo=CSS&logoColor=white) <!--CSS w/ color: 274DEF -->
 ![Static Badge](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) <!--VITE w/ color: purple  -->
+![Static Badge](https://img.shields.io/badge/FRONTEND%20DESIGN-FF6F61?style=for-the-badge&logo=figma&logoColor=white) <!--Frontend Design w/ color: coral -->
 
-### Machine Learning
+### Machine Learning & Data
 ![Static Badge](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) <!--PyTorch w/ color: EE4C2C -->
 ![Static Badge](https://img.shields.io/badge/NUMPY-4D77CF?style=for-the-badge&logo=numpy&logoColor=white) <!--NumPy w/ color: 4D77CF -->
 ![Static Badge](https://img.shields.io/badge/PANDAS-0B0253?style=for-the-badge&logo=pandas&logoColor=white) <!--Pandas w/ color: 0B0253 -->
 ![Static Badge](https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) <!--Scikit-Learn w/ color: F7931E -->
 ![Static Badge](https://img.shields.io/badge/MATPLOTLIB-D7FF60?style=for-the-badge&logo=Matplotlib&logoColor=white) <!--Matplotlib w/ color: D7FF60 -->
+![Static Badge](https://img.shields.io/badge/MIDI-1DB954?style=for-the-badge&logo=musicbrainz&logoColor=white) <!--MIDI w/ color: green -->
 
 ### Hardware
 ![Static Badge](https://img.shields.io/badge/ARDUINO-00989E?style=for-the-badge&logo=arduino&logoColor=white) <!--Arduino w/ color: 00989E -->
 ![Static Badge](https://img.shields.io/badge/RASPBERRY%20PI-BD0940?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white) <!--Raspberry Pi w/ color: BD0940 -->
 ![Static Badge](https://img.shields.io/badge/SG90%20SERVO%20MOTOR-2542AF?style=for-the-badge&logo=servo&logoColor=white) <!--SG90 Servo Motor w/ color: 2542AF -->
+![Static Badge](https://img.shields.io/badge/EMBEDDED%20SYSTEMS-A9A9A9?style=for-the-badge&logo=chip&logoColor=white) <!--Embedded Systems w/ color: gray -->
 
-### Tools
+### Tools & Practices
 ![Static Badge](https://img.shields.io/badge/LINUX-FED526?style=for-the-badge&logo=Linux&logoColor=black) <!--Linux w/ color: FED526 -->
 ![Static Badge](https://img.shields.io/badge/WINDOWS-0278D6?style=for-the-badge) <!-- Windows w/ color: 0278D6 -->
 ![Static Badge](https://img.shields.io/badge/GIT-F34F29?style=for-the-badge&logo=git&logoColor=white) <!--Git w/ color: F34F29 -->
 ![Static Badge](https://img.shields.io/badge/CI%2FCD-purple?style=for-the-badge&logo=bash&logoColor=white) <!--CI/CD w/ color: purple -->
 ![Static Badge](https://img.shields.io/badge/UNITY-808080?style=for-the-badge&logo=unity&logoColor=white) <!--Unity w/ color: 808080-->
 ![Static Badge](https://img.shields.io/badge/SCRUM%2FAGILE-green?style=for-the-badge&logo=scrum&logoColor=white) <!--Scrum/Agile w/ color: green -->
+![Static Badge](https://img.shields.io/badge/ALGORITHMS-000080?style=for-the-badge&logo=leetcode&logoColor=white) <!--Algorithms w/ color: navy -->
 
 ## 💡 Experience
 
@@ -84,20 +89,20 @@ Here are some ideas to get you started:
 ## 💻 Project Roles
 
 **Manner’s Murder: Educational Algebra Game** \
-*Sept. 2025 - Dec. 2025*
+*Dec. 2025*
 - Led frontend development using TypeScript, Vite, and Konva.js, building an interactive 2D educational game for high school students, delivering 4+ fully functional game screens.
 - Designed and implemented a scalable Model-View-Controller (MVC) architecture, improving code organization and maintainability across Login, Menu, Game, and Notebook systems.
 - Integrated frontend with backend services using REST APIs, supporting authentication and real-time game state synchronization.
 - Collaborated in an Agile/Scrum team of 6 developers, participating in sprint planning and code reviews.
 
 **Interactive Robotic Bird in C/C++** \
-*Feb. 2025 - Jun. 2025*
+*Jun. 2025*
 - Directed software development for a robotic control system using C/C++ and Arduino IDE to synchronize servo-based head and wing motion with real-time audio feedback.
 - Integrated motion logic with custom-fabricated mechanical components, achieving 90% synchronization accuracy between movement and sound.
 - Partnered with 3+ hardware engineers to ensure the safety and reliability of the Raspberry Pi 5 hardware system.
 
 **Dance Klub: A Unity-Based Video Game** \
-*Oct. 2024 - Nov. 2024*
+*Nov. 2024*
 - Led a 5-member programming team to design, code, and deploy a 2D Unity-based game for the TritonWare event for the Video Game Development Club, managing project timelines and ensuring deliverables met quality standards.
 - Developed core gameplay mechanics in C# using Unity, including a timer-based scoring system and randomized sprite generator, increasing replayability and player engagement by 30% during testing.
 - Implemented a UI/UX interface with animated menus to enhance player navigation and experience.
