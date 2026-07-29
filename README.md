@@ -56,6 +56,7 @@ Here are some ideas to get you started:
 
 ### Tools & Practices
 ![Static Badge](https://img.shields.io/badge/LINUX-FED526?style=for-the-badge&logo=Linux&logoColor=black) <!--Linux w/ color: FED526 -->
+![Static Badge](https://img.shields.io/badge/VIM-019733?style=for-the-badge&logo=vim&logoColor=white) <!--Vim w/ color: 019733 -->
 ![Static Badge](https://img.shields.io/badge/WINDOWS-0278D6?style=for-the-badge) <!-- Windows w/ color: 0278D6 -->
 ![Static Badge](https://img.shields.io/badge/GIT-F34F29?style=for-the-badge&logo=git&logoColor=white) <!--Git w/ color: F34F29 -->
 ![Static Badge](https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) <!--VS Code w/ color: 007ACC -->
