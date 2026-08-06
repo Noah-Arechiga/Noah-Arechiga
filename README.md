@@ -96,7 +96,7 @@ O'Melveny & Myers LLP \
 - Managed sensitive expense data in Microsoft Excel with 100% accuracy.
 - Proofread confidential legal documents and internal correspondence with discretion and attention to detail.
 
-## 💻 Project Roles
+## 💻 Projects
 
 **Manner’s Murder: Educational Algebra Game** \
 *Dec. 2025*
