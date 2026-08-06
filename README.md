@@ -29,14 +29,22 @@ Here are some ideas to get you started:
 ![Static Badge](https://img.shields.io/badge/TYPESCRIPT-2E79C7?style=for-the-badge&logo=Typescript&logoColor=white) <!--Typescript w/ color: 2E79C7 -->
 ![Static Badge](https://img.shields.io/badge/JAVA-5283A2?style=for-the-badge&logoColor=white) <!--Java w/ color: 5283A2 -->
 ![Static Badge](https://img.shields.io/badge/JAVASCRIPT-F0DC4E?style=for-the-badge&logo=javascript&logoColor=black) <!--Javascript w/ color F0DC4E-->
+![Static Badge](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) <!--SQL (using MySQL logo) -->
 ![Static Badge](https://img.shields.io/badge/MATLAB-E3650F?style=for-the-badge&logo=Matlab&logoColor=white) <!--MATLAB w/ color: E3650F -->
 ![Static Badge](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) <!--LaTex w/ color: cyan -->
 
 ### Web Development
+![Static Badge](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white) <!--Node.js -->
+![Static Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) <!--Express.js -->
+![Static Badge](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) <!--SQLite -->
+![Static Badge](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white) <!--REST API (generic, using FastAPI icon) -->
+![Static Badge](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white) <!--OpenAPI -->
 ![Static Badge](https://img.shields.io/badge/REACT-61DBFB?style=for-the-badge&logo=react&logoColor=black) <!--React w/ color: 61DBFB -->
+![Static Badge](https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white) <!--React Query -->
 ![Static Badge](https://img.shields.io/badge/KONVA-0D83CD?style=for-the-badge&logo=konva&logoColor=white) <!--Konva w/ color: 0D83CD -->
 ![Static Badge](https://img.shields.io/badge/HTML-E54C21?style=for-the-badge&logo=html5&logoColor=white) <!--HTML w/ color: E54C21 -->
 ![Static Badge](https://img.shields.io/badge/CSS-274DEF?style=for-the-badge&logo=CSS&logoColor=white) <!--CSS w/ color: 274DEF -->
+![Static Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) <!--Tailwind CSS -->
 ![Static Badge](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) <!--VITE w/ color: purple  -->
 ![Static Badge](https://img.shields.io/badge/FRONTEND%20DESIGN-FF6F61?style=for-the-badge&logo=figma&logoColor=white) <!--Frontend Design w/ color: coral -->
 
@@ -55,6 +63,7 @@ Here are some ideas to get you started:
 ![Static Badge](https://img.shields.io/badge/EMBEDDED%20SYSTEMS-A9A9A9?style=for-the-badge&logo=chip&logoColor=white) <!--Embedded Systems w/ color: gray -->
 
 ### Tools & Practices
+![Static Badge](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) <!--Docker -->
 ![Static Badge](https://img.shields.io/badge/LINUX-FED526?style=for-the-badge&logo=Linux&logoColor=black) <!--Linux w/ color: FED526 -->
 ![Static Badge](https://img.shields.io/badge/VIM-019733?style=for-the-badge&logo=vim&logoColor=white) <!--Vim w/ color: 019733 -->
 ![Static Badge](https://img.shields.io/badge/WINDOWS-0278D6?style=for-the-badge) <!-- Windows w/ color: 0278D6 -->
