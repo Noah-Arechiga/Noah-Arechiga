@@ -60,7 +60,6 @@ Here are some ideas to get you started:
 ![Static Badge](https://img.shields.io/badge/ARDUINO-00989E?style=for-the-badge&logo=arduino&logoColor=white) <!--Arduino w/ color: 00989E -->
 ![Static Badge](https://img.shields.io/badge/RASPBERRY%20PI-BD0940?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white) <!--Raspberry Pi w/ color: BD0940 -->
 ![Static Badge](https://img.shields.io/badge/SG90%20SERVO%20MOTOR-2542AF?style=for-the-badge&logo=servo&logoColor=white) <!--SG90 Servo Motor w/ color: 2542AF -->
-![Static Badge](https://img.shields.io/badge/EMBEDDED%20SYSTEMS-A9A9A9?style=for-the-badge&logo=chip&logoColor=white) <!--Embedded Systems w/ color: gray -->
 
 ### Cloud & DevOps
 ![Static Badge](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) <!--Docker w/ color: blue -->
