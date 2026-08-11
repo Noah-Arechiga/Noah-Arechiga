@@ -79,14 +79,6 @@ Here are some ideas to get you started:
 
 ## 💡 Experience
 
-**Resident Assistant** \
-UC San Diego - Housing, Dining & Hospitality \
-*Aug. 2025 - Jun. 2026*
-- Supported a residential community of 50+ students through student mentorship, crisis response, and university policy enforcement while maintaining FERPA compliance.
-- Collaborated with a team of 5+ Resident Assistants to plan, budget, and execute educational and community-based events for over 100+ residents.
-- Achieved a 100% response and follow-up rate on resident incidents involving conflict, noise, and lockouts on-duty shifts.
-- Operated student housing management platforms (Persona, Mercury) to process 150+ resident check-ins daily during move-in operations.
-
 **Software Engineering Lead** \
 Themed Entertainment Association @ UCSD \
 *Feb. 2025 - Jun. 2026*
@@ -126,5 +118,12 @@ O'Melveny & Myers LLP \
 - Developed core gameplay mechanics in C# using Unity, including a timer-based scoring system and randomized sprite generator, increasing replayability and player engagement by 30% during testing.
 - Implemented a UI/UX interface with animated menus to enhance player navigation and experience.
 
+## 💡 Leadership
 
-
+**Resident Assistant** \
+UC San Diego - Housing, Dining & Hospitality \
+*Aug. 2025 - Jun. 2026*
+- Supported a residential community of 50+ students through student mentorship, crisis response, and university policy enforcement while maintaining FERPA compliance.
+- Collaborated with a team of 5+ Resident Assistants to plan, budget, and execute educational and community-based events for over 100+ residents.
+- Achieved a 100% response and follow-up rate on resident incidents involving conflict, noise, and lockouts on-duty shifts.
+- Operated student housing management platforms (Persona, Mercury) to process 150+ resident check-ins daily during move-in operations.
