@@ -23,59 +23,61 @@ Here are some ideas to get you started:
 
 ## 🛠 Skills
 ### Programming Languages
+![Static Badge](https://img.shields.io/badge/TYPESCRIPT-2E79C7?style=for-the-badge&logo=Typescript&logoColor=white) <!--Typescript w/ color: 2E79C7 -->
+![Static Badge](https://img.shields.io/badge/JAVASCRIPT-F0DC4E?style=for-the-badge&logo=javascript&logoColor=black) <!--Javascript w/ color F0DC4E-->
+![Static Badge](https://img.shields.io/badge/PYTHON-3673A2?style=for-the-badge&logo=PYTHON&logoColor=FDD545) <!--Python w/ yellow color: FDD545 and blue color: 3673A2 -->
 ![Static Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white) <!--C w/ color: 00599C -->
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white) <!--C++ w/ color: 00599C -->
-![Static Badge](https://img.shields.io/badge/PYTHON-3673A2?style=for-the-badge&logo=PYTHON&logoColor=FDD545) <!--Python w/ yellow color: FDD545 and blue color: 3673A2 -->
-![Static Badge](https://img.shields.io/badge/TYPESCRIPT-2E79C7?style=for-the-badge&logo=Typescript&logoColor=white) <!--Typescript w/ color: 2E79C7 -->
 ![Static Badge](https://img.shields.io/badge/JAVA-5283A2?style=for-the-badge&logoColor=white) <!--Java w/ color: 5283A2 -->
-![Static Badge](https://img.shields.io/badge/JAVASCRIPT-F0DC4E?style=for-the-badge&logo=javascript&logoColor=black) <!--Javascript w/ color F0DC4E-->
 ![Static Badge](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) <!--SQL (using MySQL logo) -->
 ![Static Badge](https://img.shields.io/badge/MATLAB-E3650F?style=for-the-badge&logo=Matlab&logoColor=white) <!--MATLAB w/ color: E3650F -->
-![Static Badge](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) <!--LaTex w/ color: cyan -->
 
 ### Web Development
+![Static Badge](https://img.shields.io/badge/REACT-61DBFB?style=for-the-badge&logo=react&logoColor=black) <!--React w/ color: 61DBFB -->
 ![Static Badge](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white) <!--Node.js -->
 ![Static Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) <!--Express.js -->
-![Static Badge](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) <!--SQLite -->
+![Static Badge](https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white) <!--React Query w/ color: red/pink -->
+![Static Badge](https://img.shields.io/badge/Cheerio-E88C1A?style=for-the-badge&logo=cheerio&logoColor=white) <!-- Cheerio w/ color: light orange -->
+![Static Badge](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) <!--SQLite w/ color: dark navy  -->
 ![Static Badge](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white) <!--REST API (generic, using FastAPI icon) -->
 ![Static Badge](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white) <!--OpenAPI -->
-![Static Badge](https://img.shields.io/badge/REACT-61DBFB?style=for-the-badge&logo=react&logoColor=black) <!--React w/ color: 61DBFB -->
-![Static Badge](https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white) <!--React Query -->
-![Static Badge](https://img.shields.io/badge/KONVA-0D83CD?style=for-the-badge&logo=konva&logoColor=white) <!--Konva w/ color: 0D83CD -->
+![Static Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) <!--Tailwind CSS -->
 ![Static Badge](https://img.shields.io/badge/HTML-E54C21?style=for-the-badge&logo=html5&logoColor=white) <!--HTML w/ color: E54C21 -->
 ![Static Badge](https://img.shields.io/badge/CSS-274DEF?style=for-the-badge&logo=CSS&logoColor=white) <!--CSS w/ color: 274DEF -->
-![Static Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) <!--Tailwind CSS -->
 ![Static Badge](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) <!--VITE w/ color: purple  -->
-![Static Badge](https://img.shields.io/badge/FRONTEND%20DESIGN-FF6F61?style=for-the-badge&logo=figma&logoColor=white) <!--Frontend Design w/ color: coral -->
+![Static Badge](https://img.shields.io/badge/KONVA-0D83CD?style=for-the-badge&logo=konva&logoColor=white) <!--Konva w/ color: 0D83CD -->
 
 ### Machine Learning & Data
 ![Static Badge](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) <!--PyTorch w/ color: EE4C2C -->
+![Static Badge](https://img.shields.io/badge/Transformers.js-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) <!--Transformers.js w/ color: black -->
+![Static Badge](https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) <!--Scikit-Learn w/ color: F7931E -->
 ![Static Badge](https://img.shields.io/badge/NUMPY-4D77CF?style=for-the-badge&logo=numpy&logoColor=white) <!--NumPy w/ color: 4D77CF -->
 ![Static Badge](https://img.shields.io/badge/PANDAS-0B0253?style=for-the-badge&logo=pandas&logoColor=white) <!--Pandas w/ color: 0B0253 -->
-![Static Badge](https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) <!--Scikit-Learn w/ color: F7931E -->
 ![Static Badge](https://img.shields.io/badge/MATPLOTLIB-D7FF60?style=for-the-badge&logo=Matplotlib&logoColor=white) <!--Matplotlib w/ color: D7FF60 -->
 ![Static Badge](https://img.shields.io/badge/MIDI-1DB954?style=for-the-badge&logo=musicbrainz&logoColor=white) <!--MIDI w/ color: green -->
 
-### Hardware
+### Hardware & Embedded Systems
 ![Static Badge](https://img.shields.io/badge/ARDUINO-00989E?style=for-the-badge&logo=arduino&logoColor=white) <!--Arduino w/ color: 00989E -->
 ![Static Badge](https://img.shields.io/badge/RASPBERRY%20PI-BD0940?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white) <!--Raspberry Pi w/ color: BD0940 -->
 ![Static Badge](https://img.shields.io/badge/SG90%20SERVO%20MOTOR-2542AF?style=for-the-badge&logo=servo&logoColor=white) <!--SG90 Servo Motor w/ color: 2542AF -->
 ![Static Badge](https://img.shields.io/badge/EMBEDDED%20SYSTEMS-A9A9A9?style=for-the-badge&logo=chip&logoColor=white) <!--Embedded Systems w/ color: gray -->
 
+### Cloud & DevOps
+![Static Badge](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) <!--Docker w/ color: blue -->
+![Static Badge](https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure-F80000?style=for-the-badge&logo=oracle&logoColor=white) <!--Oracle CI w/ color: orange -->
+![Static Badge](https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white) <!--Vercel w/ color: black -->
+![Static Badge](https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=white) <!--Caddy w/ color: blue -->
+![Static Badge](https://img.shields.io/badge/DNS%20Management-2496ED?style=for-the-badge&logo=dns&logoColor=white) <!-- DNS w/ color: sky blue -->
+![Static Badge](https://img.shields.io/badge/CI%2FCD-purple?style=for-the-badge&logo=bash&logoColor=white) <!--CI/CD w/ color: purple -->
+
 ### Tools & Practices
-![Static Badge](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) <!--Docker -->
+![Static Badge](https://img.shields.io/badge/GIT-F34F29?style=for-the-badge&logo=git&logoColor=white) <!--Git w/ color: orange -->
 ![Static Badge](https://img.shields.io/badge/LINUX-FED526?style=for-the-badge&logo=Linux&logoColor=black) <!--Linux w/ color: FED526 -->
-![Static Badge](https://img.shields.io/badge/VIM-019733?style=for-the-badge&logo=vim&logoColor=white) <!--Vim w/ color: 019733 -->
-![Static Badge](https://img.shields.io/badge/WINDOWS-0278D6?style=for-the-badge) <!-- Windows w/ color: 0278D6 -->
-![Static Badge](https://img.shields.io/badge/GIT-F34F29?style=for-the-badge&logo=git&logoColor=white) <!--Git w/ color: F34F29 -->
 ![Static Badge](https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) <!--VS Code w/ color: 007ACC -->
 ![Static Badge](https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white) <!--Jupyter w/ color: F37626 -->
 ![Static Badge](https://img.shields.io/badge/GOOGLE%20COLAB-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white) <!--Colab w/ color: F9AB00 -->
-![Static Badge](https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white) <!--Vercel w/ color: black -->
-![Static Badge](https://img.shields.io/badge/CI%2FCD-purple?style=for-the-badge&logo=bash&logoColor=white) <!--CI/CD w/ color: purple -->
 ![Static Badge](https://img.shields.io/badge/UNITY-808080?style=for-the-badge&logo=unity&logoColor=white) <!--Unity w/ color: 808080-->
 ![Static Badge](https://img.shields.io/badge/SCRUM%2FAGILE-green?style=for-the-badge&logo=scrum&logoColor=white) <!--Scrum/Agile w/ color: green -->
-![Static Badge](https://img.shields.io/badge/ALGORITHMS-000080?style=for-the-badge&logo=leetcode&logoColor=white) <!--Algorithms w/ color: navy -->
 
 ## 💡 Experience
 
