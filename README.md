@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ## 📚 Education
-**B.S. Mathematics-Computer Science** - University of California, San Diego \
+### University of California, San Diego
+**B.S. Mathematics-Computer Science** \
 *Sept. 2023 - Jun. 2026*
 - GPA: 3.65/4.00
 - Relevant Coursework: Software Engineering, Advanced Data Structures, Design & Analysis of Algorithms, Systems Programming, Software Tools, AI: Probabilistic Reasoning & Decision-Making, Machine Learning Algorithms, Machine Learning for Music, Object-Oriented Design, Theory of Computation, Numerical Methods for PDEs
@@ -119,7 +120,7 @@ O'Melveny & Myers LLP \
 - Developed core gameplay mechanics in C# using Unity, including a timer-based scoring system and randomized sprite generator, increasing replayability and player engagement by 30% during testing.
 - Implemented a UI/UX interface with animated menus to enhance player navigation and experience.
 
-## 💡 Leadership
+## 🤝 Leadership
 
 **Resident Assistant** \
 UC San Diego - Housing, Dining & Hospitality \
