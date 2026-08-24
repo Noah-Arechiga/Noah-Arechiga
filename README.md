@@ -30,16 +30,16 @@ Here are some ideas to get you started:
 ![Static Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white) <!--C w/ color: 00599C -->
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white) <!--C++ w/ color: 00599C -->
 ![Static Badge](https://img.shields.io/badge/JAVA-5283A2?style=for-the-badge&logoColor=white) <!--Java w/ color: 5283A2 -->
-![Static Badge](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) <!--SQL (using MySQL logo) -->
 ![Static Badge](https://img.shields.io/badge/MATLAB-E3650F?style=for-the-badge&logo=Matlab&logoColor=white) <!--MATLAB w/ color: E3650F -->
 
 ### Web Development
 ![Static Badge](https://img.shields.io/badge/REACT-61DBFB?style=for-the-badge&logo=react&logoColor=black) <!--React w/ color: 61DBFB -->
+![Static Badge](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) <!--Next.js w/ color: black -->
 ![Static Badge](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white) <!--Node.js -->
 ![Static Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) <!--Express.js -->
 ![Static Badge](https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white) <!--React Query w/ color: red/pink -->
 ![Static Badge](https://img.shields.io/badge/Cheerio-E88C1A?style=for-the-badge&logo=cheerio&logoColor=white) <!-- Cheerio w/ color: light orange -->
-![Static Badge](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) <!--SQLite w/ color: dark navy  -->
+![Static Badge](https://img.shields.io/badge/LEAFLET.JS-199900?style=for-the-badge&logo=leaflet&logoColor=white) <!--Leaflet.js w/ color: 199900 -->
 ![Static Badge](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white) <!--REST API (generic, using FastAPI icon) -->
 ![Static Badge](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white) <!--OpenAPI -->
 ![Static Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) <!--Tailwind CSS -->
@@ -47,6 +47,12 @@ Here are some ideas to get you started:
 ![Static Badge](https://img.shields.io/badge/CSS-274DEF?style=for-the-badge&logo=CSS&logoColor=white) <!--CSS w/ color: 274DEF -->
 ![Static Badge](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) <!--VITE w/ color: purple  -->
 ![Static Badge](https://img.shields.io/badge/KONVA-0D83CD?style=for-the-badge&logo=konva&logoColor=white) <!--Konva w/ color: 0D83CD -->
+
+### Databases
+![Static Badge](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) <!--SQL (using MySQL logo) -->
+![Static Badge](https://img.shields.io/badge/SUPABASE-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) <!--Supabase w/ color: 3ECF8E -->
+![Static Badge](https://img.shields.io/badge/PRISMA-2D3748?style=for-the-badge&logo=prisma&logoColor=white) <!--Prisma w/ color: 2D3748 -->
+![Static Badge](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) <!--SQLite w/ color: dark navy  -->
 
 ### Machine Learning & Data
 ![Static Badge](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) <!--PyTorch w/ color: EE4C2C -->
