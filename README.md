@@ -90,11 +90,10 @@ Here are some ideas to get you started:
 **Software Engineering Lead** \
 Themed Entertainment Association @ UCSD \
 *Feb. 2025 - Jun. 2026*
-- Led a cross-functional software engineering team of 5 developers to build themed entertainment applications and interactive experiences from concept to deployment.
-- Coordinated project planning for 2+ projects, delegated development tasks, and mentored team members to ensure milestone completion and consistent code quality.
-- Designed and implemented embedded system features using (C/C++, Python, etc.) for hardware devices such as Arduinos and Raspberry Pi 5 to implement audio animatronics.
-- Utilized Git, GitHub, and Visual Studio Code to establish collaborative development workflows, reducing code integration errors by 15%.</li>
-- Presented live demonstrations of completed projects to 200+ students and faculty, increasing club visibility and contributing to a 223% growth in membership.</li>
+- Led a team of 5 developers to build themed entertainment applications and interactive experiences from concept to deployment.
+- Coordinated project planning across 2+ projects, delegated development tasks, and mentored team members to ensure milestone completion and consistent code quality.
+- Established collaborative Git/GitHub workflows, reducing code integration errors by 15%.
+- Presented live demonstrations of completed projects to 200+ students and faculty, contributing to a 223% growth in membership.
 
 **Summer Intern** \
 O'Melveny & Myers LLP \
