@@ -106,21 +106,32 @@ O'Melveny & Myers LLP \
 - Proofread confidential legal documents and internal correspondence with discretion and attention to detail.
 
 ## 💻 Projects
+**🎢 CalCoasters - Live Wait Times for SoCal Rollercoasters** | TypeScript, Next.js, React, PostgreSQL, Prisma, Supabase \
+*Aug. 2026*
+- Built and deployed a full-stack roller coaster discovery platform covering 40+ curated coasters, across 7 parks, integrating a live third-party API across 3 SoCal regions to surface real-time wait times and open/closed status for 95% of tracked rides.
+- Designed a normalized PostgreSQL schema (Prisma ORM), Next.js Server Components for 7 database-driven pages, 3 REST API routes for client-side interactions (geolocation nearest coaster search, live wait-time), and a custom Tailwind CSS design system.
+- Applied graceful degradation pattern for third-party API failures: wrapping live-data fetch so the UI falls back to a neutral state, verified across 6+ call sites.
 
-**Manner’s Murder: Educational Algebra Game** \
+**💎 Chaos Emerald - Sonic the Hedgehog Lore Chatbot** | JavaScript, Node.js, Express.js, React, Docker, Ollama \
+*Jul. 2026*
+- Built a RAG pipeline over a custom-scraped lore corpus of 100+ source documents and 4,000+ indexed passages, using Ollama for local model inference, to answer canon questions with cited sources.
+- Designed a full-stack architecture, with Cheerio scraping, a chunking/embedding ingestion pipeline, a SQLite vector store with cosine-similarity retrieval, an Express REST API (OpenAPI 3.0), and a React/Tailwind frontend deployable via docker compose.
+- Enforced 100% source-grounded responses: the pipeline cites retrieved passages inline or explicitly declines when no chunk clears the relevance threshold (cosine similarity >= 0.25).
+
+**🕵️ Manner’s Murder - Educational Algebra Game** | TypeScript, Konva.js, Python, Vite, REST APIs \
 *Dec. 2025*
 - Led frontend development using TypeScript, Vite, and Konva.js, building an interactive 2D educational game for high school students, delivering 4+ fully functional game screens.
 - Designed and implemented a scalable Model-View-Controller (MVC) architecture, improving code organization and maintainability across Login, Menu, Game, and Notebook systems.
 - Integrated frontend with backend services using REST APIs, supporting authentication and real-time game state synchronization.
 - Collaborated in an Agile/Scrum team of 6 developers, participating in sprint planning and code reviews.
 
-**Interactive Robotic Bird in C/C++** \
+**🤖 Embedded Systems Robotic Bird in C/C++** | C/C++, Raspberry Pi 5, Arduino IDE, Servo SG90 Motors\
 *Jun. 2025*
 - Directed software development for a robotic control system using C/C++ and Arduino IDE to synchronize servo-based head and wing motion with real-time audio feedback.
 - Integrated motion logic with custom-fabricated mechanical components, achieving 90% synchronization accuracy between movement and sound.
 - Partnered with 3+ hardware engineers to ensure the safety and reliability of the Raspberry Pi 5 hardware system.
 
-**Dance Klub: A Unity-Based Video Game** \
+**🧟 Dance Klub - A Unity-Based Video Game** | Unity, C# \
 *Nov. 2024*
 - Led a 5-member programming team to design, code, and deploy a 2D Unity-based game for the TritonWare event for the Video Game Development Club, managing project timelines and ensuring deliverables met quality standards.
 - Developed core gameplay mechanics in C# using Unity, including a timer-based scoring system and randomized sprite generator, increasing replayability and player engagement by 30% during testing.
